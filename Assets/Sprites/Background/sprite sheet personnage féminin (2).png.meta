@@ -1,0 +1,277 @@
+fileFormatVersion: 2
+guid: bdf7a9018f92aa44dbe9ff355495203d
+timeCreated: 1521628049
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "sprite sheet personnage f\xE9minin (2)_0"
+    21300002: "sprite sheet personnage f\xE9minin (2)_1"
+    21300004: "sprite sheet personnage f\xE9minin (2)_2"
+    21300006: "sprite sheet personnage f\xE9minin (2)_3"
+    21300008: "sprite sheet personnage f\xE9minin (2)_4"
+    21300010: "sprite sheet personnage f\xE9minin (2)_5"
+    21300012: "sprite sheet personnage f\xE9minin (2)_6"
+    21300014: "sprite sheet personnage f\xE9minin (2)_7"
+    21300016: "sprite sheet personnage f\xE9minin (2)_8"
+    21300018: "sprite sheet personnage f\xE9minin (2)_9"
+    21300020: "sprite sheet personnage f\xE9minin (2)_10"
+    21300022: "sprite sheet personnage f\xE9minin (2)_11"
+    21300024: "sprite sheet personnage f\xE9minin (2)_12"
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "sprite sheet personnage f\xE9minin (2)_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 475
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "sprite sheet personnage f\xE9minin (2)_1"
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 0
+        width: 480
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "sprite sheet personnage f\xE9minin (2)_2"
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 0
+        width: 480
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "sprite sheet personnage f\xE9minin (2)_3"
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 0
+        width: 480
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "sprite sheet personnage f\xE9minin (2)_4"
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 0
+        width: 479
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "sprite sheet personnage f\xE9minin (2)_5"
+      rect:
+        serializedVersion: 2
+        x: 2765
+        y: 0
+        width: 480
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "sprite sheet personnage f\xE9minin (2)_6"
+      rect:
+        serializedVersion: 2
+        x: 3294
+        y: 0
+        width: 480
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "sprite sheet personnage f\xE9minin (2)_7"
+      rect:
+        serializedVersion: 2
+        x: 3832
+        y: 0
+        width: 480
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "sprite sheet personnage f\xE9minin (2)_8"
+      rect:
+        serializedVersion: 2
+        x: 4361
+        y: 0
+        width: 480
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "sprite sheet personnage f\xE9minin (2)_9"
+      rect:
+        serializedVersion: 2
+        x: 4910
+        y: 0
+        width: 480
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "sprite sheet personnage f\xE9minin (2)_10"
+      rect:
+        serializedVersion: 2
+        x: 5463
+        y: 0
+        width: 480
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "sprite sheet personnage f\xE9minin (2)_11"
+      rect:
+        serializedVersion: 2
+        x: 6019
+        y: 0
+        width: 480
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "sprite sheet personnage f\xE9minin (2)_12"
+      rect:
+        serializedVersion: 2
+        x: 6568
+        y: 0
+        width: 480
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
